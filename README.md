@@ -7,7 +7,7 @@ This is a collage project that based on  Leon A. Gatys paper, you can find our f
 
 [Image Style Transfer Using CNN](https://drive.google.com/file/d/17Ll4F1XUl1VXOouRPJZ2c2GksUtDZ9wa/view?usp=sharing)
 
-For using the application you can or downlowd artme.exe and run it on any machine, or run the python code on python3 environment.
+For using the application you can or downlowd [artme.exe](https://drive.google.com/file/d/1m13DuCYS6ZbAJFIxCq40FcbEC0IImCvC/view?usp=sharing) and run it on any machine, or run the python code on python3 environment.
 
 
 
