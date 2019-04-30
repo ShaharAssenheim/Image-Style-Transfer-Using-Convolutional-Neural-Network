@@ -49,7 +49,7 @@ Our Results:
 
 
 <p align="center"> 
-<img src="(https://user-images.githubusercontent.com/31032862/56963672-29935800-6b62-11e9-8421-7880885acb86.png">
+<img src="https://user-images.githubusercontent.com/31032862/56963672-29935800-6b62-11e9-8421-7880885acb86.png">
 </p>
 
 
