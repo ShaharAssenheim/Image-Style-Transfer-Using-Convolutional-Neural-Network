@@ -16,3 +16,4 @@ For using the application you can or downlowd [artme.exe](https://drive.google.c
 
 
 
+![cnn1](https://user-images.githubusercontent.com/31032862/56962154-868d0f00-6b5e-11e9-980e-542e77dce6a3.png)
