@@ -29,7 +29,7 @@ Application GUI and implementation:
 
 **About Screen:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962154-868d0f00-6b5e-11e9-980e-542e77dce6a3.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962801-11bad480-6b60-11e9-9205-912d3655b2b5.png">
 </p>
 
 **Help File:**
