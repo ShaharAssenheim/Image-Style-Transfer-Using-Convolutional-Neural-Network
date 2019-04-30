@@ -24,7 +24,7 @@ Application GUI and implementation:
 
 **Create New Screen:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962154-868d0f00-6b5e-11e9-980e-542e77dce6a3.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962739-f51e9c80-6b5f-11e9-9ef7-dbafff51535d.png">
 </p>
 
 **About Screen:**
