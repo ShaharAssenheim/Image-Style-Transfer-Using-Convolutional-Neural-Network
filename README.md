@@ -34,7 +34,7 @@ Application GUI and implementation:
 
 **Help File:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962154-868d0f00-6b5e-11e9-980e-542e77dce6a3.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962859-2bf4b280-6b60-11e9-9ef8-5d1fc190d034.png">
 </p>
 
 
