@@ -9,6 +9,10 @@ This is a collage project that based on  Leon A. Gatys paper, you can find our f
 
 For using the application you can or downlowd [artme.exe](https://drive.google.com/file/d/1m13DuCYS6ZbAJFIxCq40FcbEC0IImCvC/view?usp=sharing) and run it on any machine, or run the python code on python3 environment.
 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/31032862/56887237-c75f2800-6a79-11e9-9e5f-38bd4c40a10d.png">
+</p>
+
 
 
 
