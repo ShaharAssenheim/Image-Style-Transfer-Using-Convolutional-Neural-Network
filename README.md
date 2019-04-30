@@ -1,7 +1,7 @@
 # Image Style Transfer Using Convolutional Neural Network
 **implementation of style transfer by using CNN with Tensorflow.**
 
-The system extract content and style from an image and combined them together in order to get an artistic image by using neural network, code written in python and worked on pre trained network with tensorflow.
+The system extract content and style from an image and combined them together in order to get an artistic image by using neural network, code written in python/PyQt5 and worked on pre trained network with tensorflow.
 
 This is a collage project that based on  Leon A. Gatys paper, you can find our full project paper in the following link:
 
@@ -38,7 +38,18 @@ Application GUI and implementation:
 </p>
 
 
+Our Results:
+-
 
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/31032862/56962801-11bad480-6b60-11e9-9205-912d3655b2b5.png">
+</p>
+
+
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/31032862/56962859-2bf4b280-6b60-11e9-9ef8-5d1fc190d034.png">
+</p>
 
 
 
