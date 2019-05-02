@@ -11,7 +11,7 @@ For using the application you can or downlowd [artme.exe](https://drive.google.c
 
 **Example:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962154-868d0f00-6b5e-11e9-980e-542e77dce6a3.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962154-868d0f00-6b5e-11e9-980e-542e77dce6a3.png" width="80%">
 </p>
 
 Application GUI and implementation:
@@ -19,22 +19,22 @@ Application GUI and implementation:
 
 **Home Screen:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962680-d15b5680-6b5f-11e9-8963-1c75eb5f1101.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962680-d15b5680-6b5f-11e9-8963-1c75eb5f1101.png" width="80%">
 </p>
 
 **Create New Screen:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962739-f51e9c80-6b5f-11e9-9ef7-dbafff51535d.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962739-f51e9c80-6b5f-11e9-9ef7-dbafff51535d.png" width="80%">
 </p>
 
 **About Screen:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962801-11bad480-6b60-11e9-9205-912d3655b2b5.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962801-11bad480-6b60-11e9-9205-912d3655b2b5.png" width="80%">
 </p>
 
 **Help File:**
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56962859-2bf4b280-6b60-11e9-9ef8-5d1fc190d034.png">
+<img src="https://user-images.githubusercontent.com/31032862/56962859-2bf4b280-6b60-11e9-9ef8-5d1fc190d034.png" width="80%">
 </p>
 
 
@@ -44,12 +44,12 @@ Our Results:
 
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56963618-07013f00-6b62-11e9-9886-e8806b35e2f8.png">
+<img src="https://user-images.githubusercontent.com/31032862/56963618-07013f00-6b62-11e9-9886-e8806b35e2f8.png" width="80%">
 </p>
 
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/31032862/56963672-29935800-6b62-11e9-8421-7880885acb86.png">
+<img src="https://user-images.githubusercontent.com/31032862/56963672-29935800-6b62-11e9-8421-7880885acb86.png" width="80%">
 </p>
 
 
